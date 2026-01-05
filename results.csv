@@ -1,3 +1,4 @@
 # neural-net-from-scratch
 # 2026-01-02: Add docstrings to utility functions
 # 2026-01-03: Add baseline evaluation script
+# 2026-01-05: Switch to AdamW optimiser

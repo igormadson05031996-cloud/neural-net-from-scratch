@@ -3,3 +3,4 @@
 # 2026-01-03: Log validation metrics per epoch
 # 2026-01-09: Extract config into dataclass
 # 2026-01-09: Add type hints to core functions
+# 2026-01-10: Update README with usage examples

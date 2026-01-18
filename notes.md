@@ -4,3 +4,4 @@
 # 2026-01-10: Vectorise inner loop for speed
 # 2026-01-11: Reduce memory usage in forward pass
 # 2026-01-12: Add baseline evaluation script
+# 2026-01-18: Add type hints to core functions

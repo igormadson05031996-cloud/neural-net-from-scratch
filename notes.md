@@ -7,3 +7,4 @@
 # 2026-01-18: Add type hints to core functions
 # 2026-01-20: Update README with usage examples
 # 2026-01-22: Clean up unused imports
+# 2026-01-24: Extract config into dataclass

@@ -8,3 +8,4 @@
 # 2026-01-20: Update README with usage examples
 # 2026-01-22: Clean up unused imports
 # 2026-01-24: Extract config into dataclass
+# 2026-01-30: Fix edge case in data preprocessing

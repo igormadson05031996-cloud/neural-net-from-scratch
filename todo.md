@@ -4,3 +4,4 @@
 # 2026-01-28: Add progress bar to training loop
 # 2026-01-28: Clean up unused imports
 # 2026-01-31: Log validation metrics per epoch
+# 2026-01-31: Minor performance improvements

@@ -7,3 +7,4 @@
 # 2026-01-24: Minor performance improvements
 # 2026-01-28: Add baseline evaluation script
 # 2026-01-31: Log validation metrics per epoch
+# 2026-02-04: Fix gradient accumulation bug

@@ -6,3 +6,4 @@
 # 2026-01-31: Log validation metrics per epoch
 # 2026-01-31: Minor performance improvements
 # 2026-02-04: Update dependencies
+# 2026-02-05: Add docstrings to utility functions

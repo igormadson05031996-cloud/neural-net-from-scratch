@@ -9,3 +9,4 @@
 # 2026-01-22: Clean up unused imports
 # 2026-01-24: Extract config into dataclass
 # 2026-01-30: Fix edge case in data preprocessing
+# 2026-02-06: Simplify loss computation

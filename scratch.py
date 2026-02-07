@@ -6,3 +6,4 @@
 # 2026-01-10: Update README with usage examples
 # 2026-01-17: Add early stopping to trainer
 # 2026-01-29: Bump numpy to latest stable
+# 2026-02-07: Simplify loss computation

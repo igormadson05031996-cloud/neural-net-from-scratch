@@ -10,3 +10,4 @@
 # 2026-02-04: Fix gradient accumulation bug
 # 2026-02-07: Simplify config loading
 # 2026-02-09: Add baseline evaluation script
+# 2026-02-12: Add learning rate scheduler

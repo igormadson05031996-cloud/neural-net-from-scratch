@@ -10,3 +10,4 @@
 # 2026-01-24: Extract config into dataclass
 # 2026-01-30: Fix edge case in data preprocessing
 # 2026-02-06: Simplify loss computation
+# 2026-02-13: Add baseline evaluation script

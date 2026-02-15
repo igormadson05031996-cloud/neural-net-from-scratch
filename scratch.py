@@ -9,3 +9,4 @@
 # 2026-02-07: Simplify loss computation
 # 2026-02-08: Simplify config loading
 # 2026-02-12: Add early stopping to trainer
+# 2026-02-15: Tune hyperparameters for better accuracy

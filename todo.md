@@ -9,3 +9,4 @@
 # 2026-02-05: Add docstrings to utility functions
 # 2026-02-12: Reduce memory usage in forward pass
 # 2026-02-13: Update README with usage examples
+# 2026-02-20: Add early stopping to trainer

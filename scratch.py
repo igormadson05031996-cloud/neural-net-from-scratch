@@ -11,3 +11,4 @@
 # 2026-02-12: Add early stopping to trainer
 # 2026-02-15: Tune hyperparameters for better accuracy
 # 2026-02-24: Update dependencies
+# 2026-02-26: Add progress bar to training loop

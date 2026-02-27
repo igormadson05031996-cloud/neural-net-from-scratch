@@ -12,3 +12,4 @@
 # 2026-02-15: Tune hyperparameters for better accuracy
 # 2026-02-24: Update dependencies
 # 2026-02-26: Add progress bar to training loop
+# 2026-02-27: Add baseline evaluation script

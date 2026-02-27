@@ -11,3 +11,4 @@
 # 2026-02-13: Update README with usage examples
 # 2026-02-20: Add early stopping to trainer
 # 2026-02-26: Simplify loss computation
+# 2026-02-27: Fix edge case in data preprocessing

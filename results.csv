@@ -14,3 +14,4 @@
 # 2026-02-13: Tune hyperparameters for better accuracy
 # 2026-02-23: Tune hyperparameters for better accuracy
 # 2026-02-23: Fix off-by-one in batch sampler
+# 2026-03-01: Document model architecture

@@ -16,3 +16,4 @@
 # 2026-02-23: Fix off-by-one in batch sampler
 # 2026-03-01: Document model architecture
 # 2026-03-01: Add docstrings to utility functions
+# 2026-03-02: Add learning rate scheduler

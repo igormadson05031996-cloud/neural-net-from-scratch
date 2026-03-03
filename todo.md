@@ -13,3 +13,4 @@
 # 2026-02-26: Simplify loss computation
 # 2026-02-27: Fix edge case in data preprocessing
 # 2026-03-02: Add early stopping to trainer
+# 2026-03-03: Fix off-by-one in batch sampler

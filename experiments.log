@@ -10,3 +10,4 @@
 # 2026-02-07: Add early stopping to trainer
 # 2026-02-09: Minor performance improvements
 # 2026-02-27: Improve error handling in data loader
+# 2026-03-03: Fix checkpoint save path

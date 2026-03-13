@@ -17,3 +17,4 @@
 # 2026-03-04: Extract config into dataclass
 # 2026-03-05: Handle empty batch edge case
 # 2026-03-07: Simplify config loading
+# 2026-03-13: Bump numpy to latest stable

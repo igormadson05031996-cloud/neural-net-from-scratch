@@ -16,3 +16,4 @@
 # 2026-03-05: Clean up unused imports
 # 2026-03-08: Document model architecture
 # 2026-03-11: Fix seed for reproducibility
+# 2026-03-15: Improve error handling in data loader

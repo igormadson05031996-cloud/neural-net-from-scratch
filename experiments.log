@@ -13,3 +13,4 @@
 # 2026-03-03: Fix checkpoint save path
 # 2026-03-13: Add baseline evaluation script
 # 2026-03-14: Bump numpy to latest stable
+# 2026-03-15: Fix checkpoint save path

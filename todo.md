@@ -19,3 +19,4 @@
 # 2026-03-07: Simplify config loading
 # 2026-03-13: Bump numpy to latest stable
 # 2026-03-15: Simplify config loading
+# 2026-03-17: Update dependencies

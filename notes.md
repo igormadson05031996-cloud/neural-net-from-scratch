@@ -18,3 +18,4 @@
 # 2026-03-06: Update README with usage examples
 # 2026-03-07: Switch to AdamW optimiser
 # 2026-03-13: Update dependencies
+# 2026-03-23: Simplify config loading

@@ -19,3 +19,4 @@
 # 2026-03-07: Switch to AdamW optimiser
 # 2026-03-13: Update dependencies
 # 2026-03-23: Simplify config loading
+# 2026-03-24: Cache tokenised dataset to disk
